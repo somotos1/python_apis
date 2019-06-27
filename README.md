@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # What's the Weather Like?
 
 ## Background
@@ -104,3 +103,6 @@ Part of our expectation in this challenge is that you will use critical thinking
 In building your script, pay attention to the cities you are using in your query pool. Are you getting coverage of the full gamut of latitudes and longitudes? Or are you simply choosing 500 cities concentrated in one region of the world? Even if you were a geographic genius, simply rattling 500 cities based on your human selection would create a biased dataset. Be thinking of how you should counter this. (Hint: Consider the full range of latitudes).
 Lastly, remember -- this is a challenging activity. Push yourself! If you complete this task, then you can safely say that you've gained a strong mastery of the core foundations of data analytics and it will only go better from here. Good luck!
 >>>>>>> 3adec1efabcb48775048091cf923434e1428d68b
+=======
+
+>>>>>>> 2779323c802d77794cc2ce2ec49419a071f707b7
